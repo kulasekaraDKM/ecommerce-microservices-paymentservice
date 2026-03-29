@@ -1,5 +1,0 @@
-com\ecommerce\payment_service\controller\PaymentController.class
-com\ecommerce\payment_service\PaymentServiceApplication.class
-com\ecommerce\payment_service\model\Payment.class
-com\ecommerce\payment_service\repository\PaymentRepository.class
-com\ecommerce\payment_service\service\PaymentService.class
